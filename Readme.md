@@ -25,14 +25,14 @@ This Streamlit application provides a user-friendly interface for exporting and 
    ```
 
 2.Create a virtual environment and activate it:
-      ```
-      python -m venv .venv
-      source .venv/bin/activate
-      ```
+   ```
+   python -m venv .venv
+   source .venv/bin/activate
+   ```
 3.Install the required packages:
-      ```
-      pip install -r requirements.txt
-      ```
+   ```
+   pip install -r requirements.txt
+   ```
 
 ## Usage
 
