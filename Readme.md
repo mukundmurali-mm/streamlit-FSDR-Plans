@@ -23,7 +23,12 @@ This Streamlit application provides a user-friendly interface for exporting and 
    cd oci-fsdr-plan-tool
    ```
 
-2. Install the required packages:
+2.Create a virtual environment and activate it:
+   ```
+   python -m venv .venv
+   source .venv/bin/activate
+   ```
+3.Install the required packages:
    ```
    pip install -r requirements.txt
    ```
