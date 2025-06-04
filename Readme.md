@@ -1,3 +1,5 @@
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/mukundmurali-mm/streamlit-FSDR-Plans)
+
 # OCI FSDR Plan Steps Export/Update Tool
 
 This Streamlit application provides a user-friendly interface for exporting and updating Oracle Cloud Infrastructure (OCI) Full Stack Disaster Recovery (FSDR) Plan Steps.
